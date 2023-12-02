@@ -1,0 +1,33 @@
+.content h2,
+.content p {
+  text-align: center;
+}
+
+.content ul {
+  list-style-type: circle;
+}
+
+.content ul,
+.content ol {
+  list-style-position: inside;
+}
+
+.content div p {
+  text-align: justify;
+}
+
+.content .blue {
+  color: white;
+  background-color: cadetblue;
+  cursor: pointer;
+}
+
+.content .green {
+  color: white;
+  background-color: green;
+  cursor: pointer;
+}
+
+.pointer {
+  cursor: pointer;
+}

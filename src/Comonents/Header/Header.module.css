@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.header li{
+    margin: 10px;
+    font-size: 20px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.header li:first-child{
+    margin-left: 0px;
+}
+
+.header li:hover{
+    color: #1a9fff;
+  
+}
+
+.current{
+    color: #1a9fff;
+    border-bottom: 1px solid #1a9fff;
+}

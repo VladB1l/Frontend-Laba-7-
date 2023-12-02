@@ -1,0 +1,9 @@
+.city {
+  margin: 20px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 30px;
+  width: 50%;
+  padding: 30px;
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.6);
+}
